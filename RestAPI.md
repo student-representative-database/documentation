@@ -8,4 +8,10 @@ Description
 
 *Request*
 
+```json
+{
+  "year": ""
+}
+```
+
 *Response*
