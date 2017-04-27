@@ -156,37 +156,7 @@ none
     "description": "Nerds R US, vi som capsar och dricker jolt cola",
     "facultyId": 1,
     "studentPositions": 2,
-    "phdPositions": 2,
-    "councilInstances": [
-      {
-        "id": 1,
-        "councilId": 1,
-        "year": 2017,
-        "positions": [
-          {
-            "id": 1,
-            "councilInstanceId": 1,
-            "year": 2017,
-            "phd": false,
-            "vacant": true
-          },
-          {
-            "id": 2,
-            "councilInstanceId": 1,
-            "year": 2017,
-            "phd": false,
-            "vacant": true
-          },
-          {
-            "id": 3,
-            "councilInstanceId": 1,
-            "year": 2017,
-            "phd": false,
-            "vacant": true
-          }
-        ]
-      }
-    ]
+    "phdPositions": 2
   }
 }
 ```
